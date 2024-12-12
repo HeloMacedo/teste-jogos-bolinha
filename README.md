@@ -1,4 +1,4 @@
-# teste-jogos-bolinha
+# teste-jogos-bolinha da páscoa 2
 .
 
 será um aplicativo gratuito tanto para android e IOS.
